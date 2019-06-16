@@ -8,3 +8,6 @@ Created on Sat Jun 15 23:22:48 2019
 x=9
 x
 print(x)
+x=10
+x
+print(x)
